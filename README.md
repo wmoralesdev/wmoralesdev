@@ -1,112 +1,54 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/github-header.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/github-header.svg">
+  <img alt="Walter Morales - Software Engineer | Cursor Ambassador" src="https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/github-header.svg" width="100%">
+</picture>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Walter%20Morales&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cursor%20Ambassador&descAlignY=55&descSize=20)
+[![GitHub](https://img.shields.io/badge/-wmoralesdev-181717?style=flat&logo=github&logoColor=white)](https://github.com/wmoralesdev)
+[![LinkedIn](https://img.shields.io/badge/-wmoralesdev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wmoralesdev)
+[![X](https://img.shields.io/badge/-wmoralesdev-000000?style=flat&logo=x&logoColor=white)](https://x.com/wmoralesdev)
+[![Website](https://img.shields.io/badge/-wmorales.dev-614afc?style=flat&logo=vercel&logoColor=white)](https://wmorales.dev)
 
-<p align="center">
-  <a href="https://wmorales.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:hello@wmorales.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/wmoralesdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/wmoralesdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=wmoralesdev&color=blueviolet&style=flat-square&label=Profile+Views)
+TypeScript-first engineer focused on building products with React, Next.js, and cloud infrastructure. I work on scalable systems at SOUTHWORKS and ship custom solutions for international clients as a freelance product engineer.
 
-</div>
+As Cursor Ambassador for El Salvador, I run community events, workshops, and demos that help developers adopt AI-powered workflows. I spoke at **Supabase Meetup San Salvador** and regularly use Supabase in event demos as a practical way to stand up real backends quickly.
 
-## 🌟 About Me
+---
 
-```javascript
-const walter = {
-  location: 'El Salvador 🇸🇻',
-  currentRole: 'Software Engineer @ Southworks',
-  specialRole: 'Cursor Ambassador 🚀',
-  workingWith: '10+ countries globally 🌍',
-  passions: [
-    'Building scalable solutions',
-    'AI & Innovation',
-    'Developer empowerment',
-  ],
-  currentlyLearning: ['LLMs', 'AI Engineering', 'Web3'],
-  funFact: 'I turn coffee into code and ideas into products ☕',
-};
-```
+![TypeScript](https://img.shields.io/badge/-TypeScript-614afc?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-614afc?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-614afc?style=flat&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-614afc?style=flat&logo=dotnet&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-614afc?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-614afc?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-614afc?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-614afc?style=flat&logo=microsoftazure&logoColor=white)
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+**EXPERIENCE**
 
-| Frontend                                                                                                                | Backend                                                                                                  | Database                                                                                                          | Cloud                                                                                                       | Tools                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                     | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                                                                                                                                                                                                                      |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)                | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)          | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                                                                                                                                                                             |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)       | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)    |                                                                                                                   |                                                                                                             | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMNCA3VjE3TDEyIDIyTDIwIDE3VjdMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |                                                                                                          |                                                                                                                   |                                                                                                             |                                                                                                                                                                                                                                                                                                                                                   |
+**Senior Software Engineer — SOUTHWORKS** (Apr 2023–Present)  
+TypeScript/React and .NET across cloud applications. AI integration and cloud migrations.
 
-</div>
+**Product Engineer — Freelance** (Apr 2023–Present)  
+Next.js/TypeScript product work for international clients. Architecture, delivery, deployment.
 
-## 🎯 What I'm Up To
+Previously at Ravn, Resultier, innRoad, Elaniin, Vincu Hub.
 
-- 🔭 Building innovative solutions at **[Southworks](https://southworks.com)**
-- 🤖 Empowering developers as a **[Cursor Ambassador](https://cursor.com)**
-- 🌱 Deep diving into **AI/LLMs** and **Web3** technologies
-- 💡 Creating impactful products that solve real problems
-- 🌍 Collaborating with teams across **10+ countries**
+---
 
-## 🏆 Recent Achievements
+**EVENTS**
 
-- 🎯 **Cursor Ambassador** - Helping developers leverage AI for better coding
-- 🚀 **Global Impact** - Working with clients from 10+ countries
-- 💼 **Full Stack Excellence** - 5+ years building scalable applications
-- 🌟 **Open Source Contributor** - Active in the developer community
+- **2025-12-13** — Cursor Cafe (3rd) — [Photos](https://photos.app.goo.gl/X4gF3SAVKAG665gb9)
+- **2025-11-08** — Cursor Cafe (2nd) — [Photos](https://photos.app.goo.gl/AFHgh6CAZzCq6jm79)
+- **2025-11-07** — Cursor Workshop — [Photos](https://photos.app.goo.gl/DYiKX3hxjghCak349)
+- **2025-10-10** — Cursor Cafe (1st) — [Photos](https://photos.app.goo.gl/WHd8v7hVQ9vBGTvFA)
+- **2025-10-04** — Cursor Hackathon — [Photos](https://photos.app.goo.gl/do6sTx3BsPEaNcLQ7)
+- **2025-08-12** — Cursor Meetup — [Photos](https://photos.app.goo.gl/hVpWW3GdN2wsqdhN7)
 
-## 📅 Let's Work Together
+---
 
-<div align="center">
-  <br/>
-  
-  **Available for consultations, collaborations, and exciting projects**
-  
-  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3le7owokGKyKwsSTL9NavJ_kVj19-XBgqzGbwLcx5Q8qmSQNOK-C0rYCpJqDumc8mHycf9P-lg?gv=true" target="_blank">
-    <img src="https://img.shields.io/badge/📅_Book_a_Session_with_Me-8B5CF6?style=for-the-badge&labelColor=7C3AED&logoColor=white" alt="Book a Session" />
-  </a>
-  
-  <br/>
-  <sub>Click above to schedule a 15-minute chat about your project</sub>
-  <br/><br/>
-</div>
-
-## 💼 Experience Journey
-
-<details>
-<summary><b>Click to expand my professional timeline</b></summary>
-
-- 🏢 **Southworks** | Software Engineer | _Apr 2023 - Present_
-  - Building enterprise-grade solutions for global clients
-  - Leading AI integration initiatives
-- 💻 **Freelance** | Full Stack Developer | _Apr 2023 - Jan 2024_
-  - Delivered custom solutions for international clients
-  - Specialized in modern web applications
-- 🚀 **Ravn** | Software Engineer | _Jan 2023 - Mar 2023_
-  - Developed scalable microservices architecture
-- 🛠️ **Resultier** | Full Stack Developer | _Apr 2022 - Dec 2022_
-  - Built data-driven applications with real-time features
-
-[View more on my portfolio →](https://wmorales.dev)
-
-</details>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**Open for collaborations, interesting projects, and coffee chats ☕**
-
-<a href="https://wmorales.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer)
-
-</div>
+`walterrafael26@gmail.com` · [linkedin.com/in/wmoralesdev](https://linkedin.com/in/wmoralesdev)
