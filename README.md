@@ -4,10 +4,10 @@
   <img alt="Walter Morales - Software Engineer | Cursor Ambassador" src="https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/github-header.svg" width="100%">
 </picture>
 
-[![GitHub](https://img.shields.io/badge/-_-181717?style=flat&logo=github&logoColor=white)](https://github.com/wmoralesdev)
-[![LinkedIn](https://img.shields.io/badge/-_-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wmoralesdev)
-[![X](https://img.shields.io/badge/-_-000000?style=flat&logo=x&logoColor=white)](https://x.com/wmoralesdev)
-[![Website](https://img.shields.io/badge/-_-614afc?style=flat&logo=vercel&logoColor=white)](https://wmorales.dev)
+[![GitHub](https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/badges/github.svg)](https://github.com/wmoralesdev)
+[![LinkedIn](https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/badges/linkedin.svg)](https://linkedin.com/in/wmoralesdev)
+[![X](https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/badges/x.svg)](https://x.com/wmoralesdev)
+[![Web](https://raw.githubusercontent.com/wmoralesdev/wmoralesdev/main/badges/web.svg)](https://wmorales.dev)
 
 ---
 
