@@ -1,22 +1,24 @@
-<p><img src="./assets/profile-header.png" width="100%" alt="Walter Morales · AI engineer in San Salvador, El Salvador"></p>
+<p><img src="./assets/profile-header.png" width="100%" alt="Walter Morales · AI engineer in San Salvador, alongside the Ai Labs mark"></p>
 
-<p>I build AI products for teams across Latin America. Most projects start with a workflow someone already knows by heart. I connect an agent to the tools they use, then build evaluations around the decisions they need to trust.</p>
+<p>I’m Walter, an AI engineer and founder in San Salvador. I build software with teams across Latin America, and I bring people together in El Salvador to learn what they can do with AI.</p>
 
-<p><a href="https://wmorales.dev/en"><strong>Explore my work ↗</strong></a> &nbsp; · &nbsp; <a href="https://wmorales.dev/en/book">Book a call</a> &nbsp; · &nbsp; <a href="https://linkedin.com/in/wmoralesdev">LinkedIn</a></p>
+<p><a href="https://wmorales.dev/"><strong>wmorales.dev ↗</strong></a> &nbsp; · &nbsp; <a href="https://www.ailabs.sv/en/events">AI events</a> &nbsp; · &nbsp; <a href="https://wmorales.dev/en/book">Book a call</a></p>
+
+<h2>AI events in El Salvador</h2>
+
+<p>I host hackathons where developers build with AI, and demo days where business leaders can see an automation run and ask how it works. I also teach hands-on workshops in Spanish and English.</p>
+
+<p>Across <strong>75+ events</strong>, more than <strong>3,000 people</strong> have taken part. <a href="https://www.ailabs.sv/en/events">See the events and photos ↗</a></p>
 
 <h2>What I’m building</h2>
 
 <h3><a href="https://ailabs.sv/">Ai Labs</a> · Co-Founder</h3>
-<p>I co-founded Ai Labs in San Salvador to help teams put AI to use in their day-to-day operations. We build around the tools they already have, whether they’re preparing quotes, tracking inventory, or following up with customers. Then we train the people who will run the software.</p>
+<p>At Ai Labs, we start by sitting down with the people who do the work. Preparing a quote or chasing a sales follow-up can mean moving the same information between several tools. We connect those tools, automate the repetitive steps, and teach the team how to run what we build.</p>
 
 <h3><a href="https://mediconecto.com/">MediConecto</a> · Founder</h3>
-<p>I built MediConecto around a familiar problem in El Salvador. Finding a doctor who takes your insurance can mean an afternoon on the phone. Patients can now search by specialty, city, or insurance and book online for free. Clinics can manage their schedules and patient records in the same product.</p>
+<p>I built MediConecto so finding a doctor in El Salvador could start with a search instead of a phone call. Patients can find a doctor who takes their insurance and request an appointment online for free. The request goes straight to the clinic’s schedule, and the patient gets an email when it’s confirmed.</p>
 
-<h2>Developer community</h2>
-
-<p>I organize Cafe Cursor meetups and hackathons in El Salvador and teach hands-on workshops in Spanish and English. What started around coding tools has grown into a community of <strong>1,000+ builders</strong>. Across <strong>75+ events</strong>, we’ve welcomed <strong>3,000+ distinct attendees</strong>.</p>
-
-<h3>Ambassador roles</h3>
+<h2>Ambassador roles</h2>
 
 <ul>
   <li><strong>Build and Bot Ambassadors Regional Lead</strong></li>
@@ -25,10 +27,8 @@
   <li>Mistral Ambassador</li>
 </ul>
 
-<p><a href="https://photos.app.goo.gl/qNSHWVYZwThjrUuY9">Cursor Hackathon II photos ↗</a> &nbsp; · &nbsp; <a href="https://photos.app.goo.gl/X4gF3SAVKAG665gb9">Cafe Cursor III photos ↗</a></p>
+<h2>Engineering</h2>
 
-<h2>On the engineering side</h2>
+<p>I’ve spent more than six years building software, mostly with TypeScript, React, Next.js, .NET, and PostgreSQL. These days I build agents that can use a team’s data and tools. A big part of that work is writing evaluations so we can tell when a change actually makes the agent better.</p>
 
-<p>I’ve spent more than six years building software. My stack is TypeScript, Next.js, React, and .NET, with PostgreSQL on AWS or Azure. These days I spend much of my time integrating models into existing products, connecting agents to data through MCP, and helping engineers review and test code written with Codex, Cursor, and Claude Code.</p>
-
-<p><a href="mailto:hello@wmorales.dev">hello@wmorales.dev</a> &nbsp; · &nbsp; <a href="https://wmorales.dev/">Sitio en español ↗</a></p>
+<p><a href="mailto:hello@wmorales.dev">hello@wmorales.dev</a> &nbsp; · &nbsp; <a href="https://linkedin.com/in/wmoralesdev">LinkedIn</a></p>
