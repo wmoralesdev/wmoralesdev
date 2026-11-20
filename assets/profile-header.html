@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Walter Morales — AI engineer in San Salvador</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: #100e17; }
+    .masthead {
+      position: relative;
+      isolation: isolate;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      aspect-ratio: 4 / 1;
+      padding: 0 4.4%;
+      color: #eeebf7;
+      font-family: "Plus Jakarta Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+    .intro { z-index: 1; }
+    .intro p { margin: 0 0 1.25vw; font-size: 2.1vw; color: #b2adc3; font-weight: 500; }
+    .intro h1 { margin: 0; font-size: 7vw; font-weight: 600; letter-spacing: -.055em; line-height: 1.04; }
+    canvas { position: absolute; right: 3.7%; width: 34%; aspect-ratio: 340 / 205; }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="intro">
+      <p>AI engineer · San Salvador</p>
+      <h1>Walter Morales</h1>
+    </div>
+    <canvas width="1020" height="615" aria-hidden="true"></canvas>
+  </header>
+  <script>
+    // Sample the strokes on a staggered grid, shading each dot by its distance
+    // from the stroke axis and the position of the upper-left light source.
+    const context = document.querySelector('canvas').getContext('2d');
+    context.scale(3, 3);
+    const strokes = [
+      [[20, 45], [54, 143], [82, 75], [111, 138], [145, 41]],
+      [[130, 155], [171, 52], [202, 119], [236, 52], [274, 151]]
+    ];
+    function nearestStroke(x, y) {
+      let nearest = { distance: Infinity };
+      for (const path of strokes) {
+        for (let i = 1; i < path.length; i++) {
+          const [ax, ay] = path[i - 1];
+          const dx = path[i][0] - ax, dy = path[i][1] - ay;
+          const fraction = Math.max(0, Math.min(1, ((x - ax) * dx + (y - ay) * dy) / (dx * dx + dy * dy)));
+          const offsetX = x - ax - dx * fraction, offsetY = y - ay - dy * fraction;
+          const distance = Math.hypot(offsetX, offsetY);
+          if (distance < nearest.distance) nearest = { distance, offsetX, offsetY };
+        }
+      }
+      return nearest;
+    }
+    const clamp = n => Math.max(0, Math.min(1, n));
+    for (let row = 0; row < 44; row++) {
+      for (let column = 0; column < 71; column++) {
+        const x = column * 5 + (row % 2) * 2.5, y = row * 4.6;
+        const stroke = nearestStroke(x - 18, y - 4);
+        const edge = clamp((18 - stroke.distance) / 5);
+        if (!edge) continue;
+        const light = clamp(.66 - (stroke.offsetX * .85 + stroke.offsetY * .52) / 26);
+        const wave = .5 + .5 * Math.cos(x * .031 + y * .025);
+        const upper = [226 + 13 * wave, 220 + 13 * wave, 255];
+        const lower = [76, 61, 170 + 30 * wave];
+        const tint = lower.map((channel, i) => Math.round(channel + (upper[i] - channel) * light));
+        context.fillStyle = 'rgb(' + tint.join(',') + ')';
+        context.beginPath();
+        context.arc(x, y, edge * (1.32 + 1.2 * light), 0, Math.PI * 2);
+        context.fill();
+      }
+    }
+  </script>
+</body>
+</html>
