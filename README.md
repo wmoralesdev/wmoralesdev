@@ -1,15 +1,23 @@
-# Walter Morales
+<p align="center">
+  <img src="./github-header.svg" width="100%" alt="Walter Morales · AI engineer in San Salvador, El Salvador">
+</p>
 
-I’m an AI engineer in San Salvador. I build agents that connect to the tools people already use, and I teach developers how to test what those agents do. Most of my code is TypeScript, React, Next.js, and .NET, with PostgreSQL underneath.
+I build agents that connect to the software people already use. In my workshops, I teach developers how to put those agents to work and test the results.
 
-## What I’m building
+### Selected projects
 
-**MediConecto** started with a simple question. Why should finding a doctor in El Salvador take a series of phone calls? Patients can search by specialty, city, or insurance, read a doctor’s profile, and book online for free. [Find a doctor on MediConecto](https://mediconecto.com/)
+**[MediConecto ↗](https://mediconecto.com/)**<br>
+Finding a doctor in El Salvador used to mean making a list of phone numbers. I built MediConecto so patients can search by specialty, city, or insurance and book a visit online for free.
 
-**Ai Labs** is a studio I co-founded in San Salvador. We help teams automate the work between their existing tools, from preparing quotes to following up with customers. We build around the way each team works and teach them how to run the software themselves. [Explore Ai Labs](https://ailabs.sv/)
+**[Ai Labs ↗](https://ailabs.sv/)**<br>
+I co-founded Ai Labs in San Salvador. We build software around everyday tasks like preparing quotes and following up with customers, then teach teams to run it themselves.
 
-## Developer community
+### Around San Salvador
 
-I organize Cafe Cursor meetups, hackathons, and hands-on workshops in El Salvador. I teach in Spanish and English, and I like to build something people can take home and keep working on. [Photos from a Cursor workshop](https://photos.app.goo.gl/DYiKX3hxjghCak349)
+I organize Cafe Cursor meetups, hackathons, and hands-on workshops in Spanish and English. [Photos from a Cursor workshop ↗](https://photos.app.goo.gl/DYiKX3hxjghCak349)
 
-[Personal site](https://wmorales.dev/) · [Book a call](https://wmorales.dev/book) · [LinkedIn](https://linkedin.com/in/wmoralesdev) · [X](https://x.com/wmoralesdev)
+**In my toolkit**　TypeScript · React · Next.js · .NET · PostgreSQL
+
+---
+
+[Personal site](https://wmorales.dev/)　·　[Book a call](https://wmorales.dev/book)　·　[LinkedIn](https://linkedin.com/in/wmoralesdev)　·　[X](https://x.com/wmoralesdev)
